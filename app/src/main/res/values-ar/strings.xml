@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KhaberTask</string>
+    <string name="total_salary">مجموع المرتب</string>
+    <string name="deservation">استحقاقات</string>
+    <string name="Minus">اقتطاعات</string>
+    <string name="basic">الاساسي</string>
+    <string name="work_environment">طبيعه العمل</string>
+    <string name="deduction">استقطاعات اخري</string>
+</resources>

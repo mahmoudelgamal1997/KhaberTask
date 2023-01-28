@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KhaberTask</string>
+    <string name="total_salary">Total Salary</string>
+    <string name="deservation">Deservation</string>
+    <string name="Minus">Minus</string>
+    <string name="basic">basic</string>
+    <string name="work_environment">work Environment</string>
+    <string name="deduction">Deduction</string>
+</resources>
